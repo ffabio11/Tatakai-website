@@ -3,6 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
     color: #fff;
     background: linear-gradient(180.3deg, rgb(167, 0, 0) 10.6%, rgb(76, 0, 0) 97.7%);
+	user-select: none;
     /* opacity: 0.3; */
 }
 
